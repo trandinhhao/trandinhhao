@@ -17,9 +17,8 @@ Chào mọi người, mình là Trần Đình Hào, mọi người có thể g�
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/trandinhhao?theme=light&font=ABeeZee&ext=activity" />
-<img height="280em" src="https://raw.githubusercontent.com/tdh/testing/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/trandinhhao/testing/main/output/light_card.svg" />
 </p>
-
 #### Connect With Me
 
 <p left="center">
