@@ -2,7 +2,7 @@
 
 Chào mọi người, mình là Trần Đình Hào, mọi người có thể gọi mình là Hào ❤️ 
 
-**View my Facebook [here](https://www.facebook.com/trandinhhaoo).**
+**View my CV [here](http://tdh.id.vn/).**
 
 ### Development Stuffs (Nội dung phát triển)
 
