@@ -1,7 +1,6 @@
 ## Xin chào👨‍💻
 
 Chào mọi người, mình là Trần Đình Hào, mọi người có thể gọi mình là Hào❤️
-
 **View my CV [here](http://tdh.id.vn/)📜**
 ### Development Stuffs (Nội dung phát triển)📈
 
@@ -10,6 +9,10 @@ Chào mọi người, mình là Trần Đình Hào, mọi người có thể g�
 <img height="273em" src="https://leetcard.jacoblin.cool/trandinhhao?theme=wtf&font=B612&ext=activity" />
 <img height="280em" src="https://raw.githubusercontent.com/trandinhhao/cf/main/output/light_card.svg" />
 </p>
+
+<b> 📝Github Stats (Thống kê Github)</b>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trandinhhao&layout=compact)](https://github.com/trandinhhao/github-readme-stats)
 
 #### Connect With Me😼
 
