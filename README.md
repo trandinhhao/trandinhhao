@@ -1,4 +1,4 @@
-## 👨‍💻
+## Xin chào 👨‍💻
 
 Chào mọi người, mình là Trần Đình Hào, mọi người có thể gọi mình là Hào ❤️ 
 
