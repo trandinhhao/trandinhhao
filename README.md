@@ -6,8 +6,8 @@ Chào mọi người, mình là Trần Đình Hào, mọi người có thể g�
 
 <b> 🏆Competitive Programming (Lập trình thi đấu)</b>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/trandinhhao?theme=wtf&font=B612&ext=activity" />
 <img height="280em" src="https://raw.githubusercontent.com/trandinhhao/cf/main/output/light_card.svg" />
+<img height="273em" src="https://leetcard.jacoblin.cool/trandinhhao?theme=wtf&font=B612&ext=activity" />
 </p>
 
 <b> 📝Github Stats (Thống kê Github)</b>
