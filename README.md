@@ -4,15 +4,17 @@ Chào mọi người, mình là Trần Đình Hào, mọi người có thể g�
 **View my CV [here](http://tdh.id.vn/)📜**
 ### Development Stuffs (Nội dung phát triển)📈
 
+<b> 📝Github Stats (Thống kê Github)</b>
+<div class="profile-section">
+        <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trandinhhao&theme=github" alt="Github Stats" class="github-stats">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trandinhhao&layout=donut" alt="Top Langs" class="top-langs">
+    </div>
+
 <b> 🏆Competitive Programming (Lập trình thi đấu)</b>
 <p float="left">
 <img height="280em" src="https://raw.githubusercontent.com/trandinhhao/cf/main/output/light_card.svg" />
 <img height="273em" src="https://leetcard.jacoblin.cool/trandinhhao?theme=wtf&font=B612&ext=activity" />
 </p>
-
-<b> 📝Github Stats (Thống kê Github)</b>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trandinhhao&layout=compact)](https://github.com/trandinhhao/github-readme-stats)
 
 #### Connect With Me😼
 
