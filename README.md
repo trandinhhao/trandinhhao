@@ -1,6 +1,7 @@
 ## Xin chào👨‍💻
 
-Chào mọi người, mình là Trần Đình Hào. Mọi người có thể gọi mình là Hào❤️
+Chào mọi người, mình là Trần Đình Hào❤️
+
 **View my CV [here](http://tdh.id.vn/)📜**
 ### Development Stuffs (Nội dung phát triển)📈
 
