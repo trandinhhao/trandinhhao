@@ -1,8 +1,8 @@
-## Xin chào👨‍💻
+## Hello World 👨‍💻
 
-Chào mọi người, mình là Trần Đình Hào❤️
+Chào mọi người, mình là Trần Đình Hào ❤️
 
-**View my CV [here](http://tdh.id.vn/)📜**
+**📜 View my CV [here](http://tdh.id.vn/)**
 ### Development Stuffs (Nội dung phát triển)📈
 
 <b> 📝Github Stats (Thống kê Github)</b>
