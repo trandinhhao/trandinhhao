@@ -1,6 +1,6 @@
 ## Hello World 👨‍💻
 
-Chào mọi người, mình là Trần Đình Hào ❤️
+Hi. I'm Hao ❤️ I'm currently learning AI
 
 **📜 View my CV [here](http://tdh.id.vn/)**
 ### Development Stuffs (Nội dung phát triển)📈
