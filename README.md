@@ -1,17 +1,17 @@
 ## Hello World 👨‍💻
 
-Hi. I'm Hao ❤️ I'm currently learning AI 👨‍💻🤖
+Hi. I'm Hao ❤️ I'm currently learning Back-end 👨‍💻🤖
 
 **📜 View my CV [here](http://tdh.id.vn/)**
-### Development Stuffs (Nội dung phát triển)📈
+### Development Stuffs 📈
 
-<b> 📝Github Stats (Thống kê Github)</b>
+<b> 📝Github Stats </b>
         <div class="profile-section">
                 <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trandinhhao&theme=github" alt="Github Stats" class="github-stats">
                 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trandinhhao&layout=donut" alt="Top Langs" class="top-langs">
         </div>
     
-<b> 🏆Competitive Programming (Lập trình thi đấu)</b>
+<b> 🏆Competitive Programming </b>
 <p float="left">
 <img height="280em" src="https://raw.githubusercontent.com/trandinhhao/cf/main/output/light_card.svg" />
 <img height="273em" src="https://leetcard.jacoblin.cool/trandinhhao?theme=wtf&font=B612&ext=activity" />
