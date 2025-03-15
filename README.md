@@ -1,6 +1,8 @@
-## Hello World 👨‍💻
+## Hello 👨‍💻
 
 Hi. I'm Hao ❤️ I'm currently learning Back-end 👨‍💻🤖
+
+![Profile views](https://komarev.com/ghpvc/?username=trandinhhao&label=Profile%20views&color=red&style=plastic)
 
 **📜 View my CV [here](http://tdh.id.vn/)**
 ### Development Stuffs 📈
