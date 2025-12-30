@@ -1,4 +1,4 @@
-<img width="1015" height="317" alt="image" src="https://github.com/user-attachments/assets/70a30d17-5699-4860-b2ee-ac9a6bc166ec" />## Hello 👨‍💻
+## Hello 👨‍💻
 
 Hi. I'm Hao ❤️ I'm currently learning Back-end, focus on Java Spring Boot 👨‍💻🤖
 
