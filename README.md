@@ -1,6 +1,6 @@
 ## Hello 👨‍💻
 
-Hi. I'm Hao ❤️ I'm currently learning Back-end, focus on Java Spring Boot 👨‍💻🤖
+Hi. I'm Hao ❤️ I'm currently learning Back-end and AI Application 👨‍💻🤖
 
 ![Profile views](https://komarev.com/ghpvc/?username=trandinhhao&label=Profile%20views&color=red&style=plastic)
 
